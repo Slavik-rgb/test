@@ -1,0 +1,33 @@
+html{
+	background-color: lightblue;
+	Color:red;
+	}
+header {
+    height: 110px;
+    background-color: lightgrey;
+    color: red;
+}
+header img {
+    position: absolute;
+    margin: 20px;
+    margin-left: 0px;
+    margin-top: 0px;
+	height:110px;
+	}
+
+header nav li {
+    display:inline-block;
+    margin-left:300px;
+	margin-top: 30px;
+}
+img {
+	height:300px;
+}
+
+.edu{
+	text-align:center;
+}
+
+
+
+
